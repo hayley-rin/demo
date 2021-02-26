@@ -1,0 +1,20 @@
+{
+"result":0,
+"data":[
+  {
+  "jobTitle":"腾讯",
+    "jobContent":"开发工程师",
+    "salary":12098,
+    "location":"北京",
+    "education":"本科"
+  },
+  {
+  "jobTitle":"阿里",
+    "jobContent":"开发工程师2",
+    "salary":52098,
+    "location":"上海",
+    "education":"本科"
+  }
+
+  ]
+}
