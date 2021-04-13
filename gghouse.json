@@ -1,0 +1,196 @@
+[{
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/1896/",
+		"price": "¥50,000"
+	},
+	"right": {
+		"title": "H19 ハナサカス東長崎",
+		"content": "【女性専用】西武池袋線＆東京メトロ有楽町線・副都心線＆都営大江戸線の4線利用可能です",
+		"address": "住所",
+		"address_content": "東京都豊島区長崎６丁目",
+		"station": "最寄駅",
+		"station_content": "西武池袋線 東長崎駅 徒歩12分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/1894/",
+		"price": "¥50,000"
+	},
+	"right": {
+		"title": "H18 ハナサカス小竹向原",
+		"content": "【女性専用】東京メトロ有楽町線＆副都心線＆西武有楽町線の3線利用可能です",
+		"address": "住所",
+		"address_content": "東京都板橋区小茂根４丁目",
+		"station": "最寄駅",
+		"station_content": "東京メトロ副都心線 小竹向原駅 徒歩12分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/2127/",
+		"price": "¥50,000"
+	},
+	"right": {
+		"title": "L17 コリビングハウス L 祖師ヶ谷大蔵Ⅱ",
+		"content": "人気の小田急線＆駅徒歩10分。原宿18分、新宿20分、表参道20分&赤坂25分です",
+		"address": "住所",
+		"address_content": "東京都世田谷区砧４丁目",
+		"station": "最寄駅",
+		"station_content": "小田急小田原線 祖師ケ谷大蔵駅 徒歩10分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/1898/",
+		"price": "¥50,000"
+	},
+	"right": {
+		"title": "H22 ハナサカス小竹向原WEST",
+		"content": "【女性専用】東京メトロ有楽町線＆副都心線、西武有楽町線の3路線利用可能です",
+		"address": "住所",
+		"address_content": "東京都板橋区小茂根４丁目",
+		"station": "最寄駅",
+		"station_content": "東京メトロ副都心線 小竹向原駅 徒歩13分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/1654/",
+		"price": "¥45,000"
+	},
+	"right": {
+		"title": "H11 vivo新江古田",
+		"content": "【女性専用】共益費コミコミ4万5000円。乗り換えなしで新宿15分、六本木24分＆麻布十番27分です",
+		"address": "住所",
+		"address_content": "東京都練馬区豊玉中１丁目",
+		"station": "最寄駅",
+		"station_content": "都営地下鉄大江戸線 新江古田駅 徒歩11分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/987/",
+		"price": "¥60,000"
+	},
+	"right": {
+		"title": "C99 コリビングハウス桜上水",
+		"content": "人気の京王線＆駅徒歩10分。新宿14分、渋谷15分＆吉祥寺22分です",
+		"address": "住所",
+		"address_content": "東京都世田谷区桜上水２丁目",
+		"station": "最寄駅",
+		"station_content": "京王線 桜上水駅 徒歩10分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/2026/",
+		"price": "¥40,000"
+	},
+	"right": {
+		"title": "H23 ハナサカス小竹向原EAST",
+		"content": "【女性専用】東京メトロ有楽町線＆副都心線、西武有楽町線の3路線利用可能です",
+		"address": "住所",
+		"address_content": "東京都板橋区大谷口２丁目",
+		"station": "最寄駅",
+		"station_content": "東京メトロ有楽町線 小竹向原駅 徒歩13分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/1775/",
+		"price": "¥62,000"
+	},
+	"right": {
+		"title": "V1 オルサ自由が丘",
+		"content": "【女性専用】人気の東急東横線。乗り換えなしで 中目黒8分 、恵比寿11分& 渋谷12分です",
+		"address": "住所",
+		"address_content": "東京都世田谷区奥沢２丁目",
+		"station": "最寄駅",
+		"station_content": "東急東横線 自由が丘駅 徒歩10分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/963/",
+		"price": "¥55,000"
+	},
+	"right": {
+		"title": "C88 コリビングハウス北千住",
+		"content": "北千住は5路線が乗り入れるターミナル駅です",
+		"address": "住所",
+		"address_content": "東京都足立区千住柳町",
+		"station": "最寄駅",
+		"station_content": "ＪＲ常磐線快速 北千住駅 徒歩15分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/2043/",
+		"price": "¥50,000"
+	},
+	"right": {
+		"title": "H24 ハナサカス桜台",
+		"content": "【女性専用】都営大江戸線＆西武池袋線の2路線利用可能。駅徒歩9分＆池袋7分、新宿10分＆六本木27分です",
+		"address": "住所",
+		"address_content": "東京都練馬区豊玉北４丁目",
+		"station": "最寄駅",
+		"station_content": "西武池袋線 桜台(東京都)駅 徒歩9分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/796/",
+		"price": "¥50,000"
+	},
+	"right": {
+		"title": "G131 江古田寿レジデンス",
+		"content": "都営大江戸線「新江古田駅」徒歩5分＆西武池袋線「江古田駅」徒歩10分です",
+		"address": "住所",
+		"address_content": "東京都中野区江原町３丁目",
+		"station": "最寄駅",
+		"station_content": "都営地下鉄大江戸線 新江古田駅 徒歩5分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/1049/",
+		"price": "¥50,000"
+	},
+	"right": {
+		"title": "C114 プレシャス東長崎",
+		"content": "【女性専用】西武池袋線、都営大江戸線＆東京メトロ有楽町線の3路線利用可能です",
+		"address": "住所",
+		"address_content": "東京都豊島区長崎４丁目",
+		"station": "最寄駅",
+		"station_content": "西武池袋線 東長崎駅 徒歩6分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/2116/",
+		"price": "¥55,000"
+	},
+	"right": {
+		"title": "L116 コリビングハウス L 田園調布",
+		"content": "【女性専用】人気の東急東横線。乗り換えなしで 中目黒8分 、恵比寿11分& 渋谷12分です",
+		"address": "住所",
+		"address_content": "東京都世田谷区東玉川２丁目",
+		"station": "最寄駅",
+		"station_content": "東急東横線 田園調布駅 徒歩9分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/2117/",
+		"price": "¥50,000"
+	},
+	"right": {
+		"title": "L46 コリビングハウス L 久我山",
+		"content": "人気の京王井の頭線。吉祥寺2分、渋谷14分、新宿22分です",
+		"address": "住所",
+		"address_content": "東京都杉並区宮前４丁目",
+		"station": "最寄駅",
+		"station_content": "京王井の頭線 久我山駅 徒歩13分"
+	}
+}, {
+	"left": {
+		"photo": "https://gghouse.co.jp/image/properties/main/574/",
+		"price": "¥50,000"
+	},
+	"right": {
+		"title": "G105 高円寺ノース",
+		"content": "西武新宿線＆JR中央線の2路線利用可能。2人入居可能なダブルが2部屋あります",
+		"address": "住所",
+		"address_content": "中野区若宮2丁目",
+		"station": "最寄駅",
+		"station_content": "西武新宿線 野方駅 徒歩13分"
+	}
+}]
